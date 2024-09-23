@@ -16,7 +16,7 @@ I'm a **mid-senior Flutter developer** with over 6 years of experience in mobile
 ![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySelfMukund&show_icons=true&theme=light)
 
 ### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySelfMukund&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySelfMukund&layout=compact&theme=light)
 
 ### 📈 Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MySelfMukund&theme=react-light)
