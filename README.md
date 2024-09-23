@@ -9,9 +9,12 @@ I'm a **mid-senior Flutter developer** with over 6 years of experience in mobile
 - **Other**: Team Leadership, Agile, CI/CD
 
 ### 🔗 Connect with me
-- [Portfolio](https://github.com/MySelfMukund)
 - [LinkedIn](https://www.linkedin.com/in/mukund-pradhan/)
 - [Twitter](https://x.com/twittme_mukund)
 
 ### 📊 GitHub Stats
 ![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySelfMukund&show_icons=true&theme=dark)
+
+### 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySelfMukund&layout=compact&theme=radical)
+
