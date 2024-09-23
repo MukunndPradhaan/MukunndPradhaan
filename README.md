@@ -20,5 +20,3 @@ I'm a **mid-senior Flutter developer** with over 6 years of experience in mobile
 
 ### 📈 Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MySelfMukund&theme=react-dark)
-
-
