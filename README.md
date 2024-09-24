@@ -11,6 +11,7 @@ I'm a **mid-senior Flutter developer** with over 6 years of experience in mobile
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mukund-pradhan/)
 - [Twitter](https://x.com/twittme_mukund)
+- [Instagram](https://www.instagram.com/myself_mukund/)
 
 ### 📊 GitHub Stats
 ![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySelfMukund&show_icons=true&theme=light)
