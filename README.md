@@ -26,7 +26,7 @@ I'm a **mid-senior Flutter developer** with over 6 years of experience in mobile
 [![SQL](https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=for-the-badge&logo=restful&logoColor=white)]()
-[![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NodeJS (Learning..)](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 
 
