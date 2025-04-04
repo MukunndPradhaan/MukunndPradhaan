@@ -32,11 +32,11 @@ I'm a **mid-senior Flutter developer** with over 6 years of experience in mobile
 
 
 ### 📊 GitHub Stats
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySelfMukund&show_icons=true&theme=light)
+![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukuundPradhan&show_icons=true&theme=light)
 
 ### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySelfMukund&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukuundPradhan&layout=compact&theme=light)
 
 ### 📈 Contribution Graph
-![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MySelfMukund&theme=vue)
+![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukuundPradhan&theme=vue)
 
