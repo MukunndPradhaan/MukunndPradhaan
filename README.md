@@ -1,4 +1,4 @@
-# Hi there, I'm Mukuund Pradhan 👋
+# Hi there, I'm Mukunnd Pradhaan 👋
 
 I'm a **mid-senior Flutter developer** with over 6+ years of experience in mobile app development, including 4+ years with Flutter and 2 years in native Android development. Currently, I lead a team of developers and testers to deliver high-quality mobile applications.
 
@@ -32,11 +32,11 @@ I'm a **mid-senior Flutter developer** with over 6+ years of experience in mobil
 
 
 ### 📊 GitHub Stats
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukuundPradhan&show_icons=true&theme=light)
+![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukunndPradhaan&show_icons=true&theme=light)
 
 ### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukuundPradhan&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukunndPradhaan&layout=compact&theme=light)
 
 ### 📈 Contribution Graph
-![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukuundPradhan&theme=vue)
+![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukunndPradhaan&theme=vue)
 
