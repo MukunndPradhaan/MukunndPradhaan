@@ -1,5 +1,6 @@
 
-<img src="https://res.cloudinary.com/dzfzaaban/image/upload/v1749142410/ChatGPT_Image_Jun_5_2025_09_53_40_PM_eo9bnl.png" alt="Mukunnd Pradhaan" width="50%" />
+<img src="https://res.cloudinary.com/dzfzaaban/image/upload/v1749142410/ChatGPT_Image_Jun_5_2025_09_53_40_PM_eo9bnl.png" alt="Mukunnd Pradhaan" width="70%" />
+
 # Hi there, I'm Mukunnd Pradhaan 👋
 
 I'm a **mid-senior Flutter developer** with over 6+ years of experience in mobile app development, including 4+ years with Flutter and 2 years in native Android development. Currently, I lead a team of developers and testers to deliver high-quality mobile applications.
