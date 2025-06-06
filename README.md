@@ -6,7 +6,7 @@
 
 ---
 
-I'm a **mid-senior Flutter developer** with over 6+ years of mobile app experience — 4+ years with **Flutter**, and 2 years in **native Android** (Java). I specialize in building clean, scalable, and maintainable apps that solve **real-world problems**, from **HR platforms** to **offline fleet tracking systems** and **vital monitoring kiosks**.
+I'm a **senior Flutter developer** with over 6+ years of mobile app experience — 4+ years with **Flutter**, and 2 years in **native Android** (Java). I specialise in building clean, scalable, and maintainable apps that solve **real-world problems**, from **HR platforms** to **offline fleet tracking systems** and **vital monitoring kiosks**.
 
 💼 Currently leading a talented team of developers, testers, and back-end engineers, I'm deeply involved in **architecture**, **feature planning**, and **mentoring**.
 
@@ -14,8 +14,8 @@ I'm a **mid-senior Flutter developer** with over 6+ years of mobile app experien
 
 ## 🛠️ Skills & Tools
 
-**Languages**: Dart, Java  
-**Frameworks**: Flutter, Android SDK  
+**Languages**: Dart, Java, JS
+**Frameworks**: Flutter, Android SDK, React Native 
 **Tools**: Git, Firebase, REST APIs, CI/CD, Agile  
 **Other**: Team Leadership, Clean Architecture, Testing
 
@@ -36,13 +36,13 @@ I'm a **mid-senior Flutter developer** with over 6+ years of mobile app experien
 
 ## 📂 Featured Projects
 
-🔹 [Kiosk App for Vital Monitoring](https://github.com/MukunndPradhaan/kiosk-vitals)  
+🔹 Kiosk App for Vital Monitoring
 📲 Flutter app with biometric integrations and real-time health data capture.
 
-🔹 [Fleet Tracker (Offline Mode)](https://github.com/MukunndPradhaan/fleet-tracking-flutter)  
+🔹 Fleet Tracker (Offline Mode)
 🚗 Offline-first GPS logger with local DB sync and server upload logic.
 
-🔹 [Telegram Job Bot](https://github.com/MukunndPradhaan/flutter-job-poster-bot)  
+🔹 Telegram Job Bot 
 🤖 Automatically posts Flutter job listings using GitHub Actions + Adzuna API.
 
 ---
