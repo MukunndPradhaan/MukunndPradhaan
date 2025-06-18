@@ -67,7 +67,7 @@ I'm a **senior Flutter developer** with over 6+ years of mobile app experience �
 
 ## 🏆 Achievements
 
-- 🧠 Published 10+ production-grade apps (Android & iOS)
+- 🧠 Published 20+ production-grade apps (Android & iOS)
 - 💼 Leading a full-stack mobile dev team for over a year
 - 📲 Regular LinkedIn content creator with trending posts
 - 📊 Integrated CI/CD pipelines, analytics & test automation in real-world apps
