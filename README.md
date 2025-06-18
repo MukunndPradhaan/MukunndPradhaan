@@ -58,10 +58,11 @@ I'm a **senior Flutter developer** with over 6+ years of mobile app experience �
 
 ## 💡 Join My Job Updates Telegram Channel!
 
-> 📢 Daily Flutter & Remote Job Updates
-> 💼 Curated listings from top companies
-> 🌍 Remote-friendly & Flutter-specific roles
+> 📢 Daily Flutter & Remote Job Updates  
+> 💼 Curated listings from top companies  
+> 🌍 Remote-friendly & Flutter-specific roles  
 > 👉 [Join my Telegram Channel for Flutter Jobs](https://t.me/MukunndPradhaanJobUpdates)
+
 ---
 
 ## 🏆 Achievements
